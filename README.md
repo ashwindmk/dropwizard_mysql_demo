@@ -53,9 +53,9 @@ java -jar target/dropwizard-mysql-demo-0.0.1.jar server config.yml
 ```
 POST: http://localhost:8080/employee
 {
-   "name": "anurag",
-   "department": "backend",
-   "salary": 200000
+   "name": "Daniel",
+   "department": "developer",
+   "salary": 15000
 }
 ```
 
